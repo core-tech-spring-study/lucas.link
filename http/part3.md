@@ -3,7 +3,7 @@
 ### 요구사항 / API URI 설계
  - 회원 목록 조회 / read-member-list  -> get /member
  - 회원 조회 / read-member-by-id -> get /member/{id}
- - 회원 등록 / create-member - post /member/{id}
+ - 회원 등록 / create-member - post /member/
  - 회원 수정 / update-member - update /member/{id}
  - 회원 삭제 / delete-member - delete /member/{id}
 
